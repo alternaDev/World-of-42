@@ -17,6 +17,7 @@
 		<pathelement location="bin" />
 		<pathelement location="lib/lwjgl.jar" />
 		<pathelement location="lib/slick.jar" />
+		<pathelement location="lib/commons-lang3-3.1.jar" />
 	</path>
 	<target name="init">
 		<mkdir dir="bin" />
